@@ -1,0 +1,21 @@
+{
+    "name": "error_management_service_component",
+    "version": "1.0.0",
+    "description": "error management server",
+    "main": "./server/index",
+    "scripts": {
+        "test": "node ./server/index",
+        "start": "node ./server/index"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "mahmud aremu",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "connect-redis": "^7.0.1",
+        "express-flash": "^0.0.2",
+        "redis": "^4.6.5"
+    }
+}

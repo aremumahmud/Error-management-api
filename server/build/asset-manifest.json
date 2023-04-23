@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.868fb3f9.css",
+    "main.js": "/static/js/main.addf8615.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/cdnlogo.com_mongodb-icon.svg": "/static/media/cdnlogo.com_mongodb-icon.6dc8fab2826d9fb5d5ee.svg",
+    "static/media/watchman-monitoring.svg": "/static/media/watchman-monitoring.2026bc89ef399408c920.svg",
+    "index.html": "/index.html",
+    "static/media/light-pen.svg": "/static/media/light-pen.3f2bc932e54a4233d1b3.svg",
+    "static/media/pen.svg": "/static/media/pen.9369a9994795f5825097.svg",
+    "static/media/pen2.svg": "/static/media/pen2.fb549fe90f17d0080664.svg",
+    "static/media/lock.svg": "/static/media/lock.0202e36a8da5727517b3.svg",
+    "main.868fb3f9.css.map": "/static/css/main.868fb3f9.css.map",
+    "main.addf8615.js.map": "/static/js/main.addf8615.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868fb3f9.css",
+    "static/js/main.addf8615.js"
+  ]
+}
